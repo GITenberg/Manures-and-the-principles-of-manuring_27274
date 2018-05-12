@@ -1,0 +1,26 @@
+_repo: Manures-and-the-principles-of-manuring_27274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aikman, Charles Morton
+    gutenberg_agent_id: '32586'
+    url: http://www.gutenberg.org/2009/agents/32586
+description: ''
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27274'
+  lccn: '12030207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fertilizers'
+- !lcsh 'Manures'
+- !lcc 'S'
+title: Manures and the principles of manuring
+url: http://www.gutenberg.org/ebooks/27274
